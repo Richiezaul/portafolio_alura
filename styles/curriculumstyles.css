@@ -1,0 +1,43 @@
+.curriculum{
+display: flex;
+gap: 10%;
+}
+
+.seccions{
+
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 615px;
+    padding: 6% 0% 15% 15%;
+    gap: 20px;
+    
+}
+
+.seccions__info{
+
+width: 480px;
+
+}
+
+.curriculum__seccion{
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.curriculum__seccion__lista{
+
+padding-left:10%;
+}
+
+
+.perimage{
+
+    height: 400px;
+    margin: 6% 0% 0% 0%;
+    border-radius: 30px;
+    
+    }
